@@ -1,4 +1,6 @@
- # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNtbmlqODB5bm5wbWxnYmF2YWcwOHFhM3dvbGxwdjFmZmVka3A4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/> Hi, I'm Rebeca and a web developer based in Berlin. Welcome to my GitHub profile!
+ # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNtbmlqODB5bm5wbWxnYmF2YWcwOHFhM3dvbGxwdjFmZmVka3A4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/> Hi, I'm Rebeca and a web developer based in Berlin. 
+ 
+ Welcome to my GitHub profile!
 
 Connect with me
 
