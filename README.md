@@ -8,7 +8,7 @@ Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/grannyyetta?igsh=MWgyZXA2YjZ5cTNweQ%3D%3D&utm_source=qr)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-I am a full-stack web developer with passion for creating innovative and user-friendly digital solutions. I have expertise in both front-end and back-end development, and I am committed to continuous learning and growth in the ever-evolving tech industry. Looking to collaborate on exciting projects and contribute to dynamic teams.
+I am a full-stack web developer with passion for creating innovative and user-friendly digital solutions. I have experience in both front-end and back-end development, and I am committed to continuous learning and growth in the ever-evolving tech industry. Looking to collaborate on exciting projects and contribute to dynamic teams.
 
 ### Skills 
 <p align="left">
